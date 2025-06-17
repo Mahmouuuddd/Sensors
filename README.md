@@ -5,11 +5,13 @@ Includes sensor readings (IMU, GPS, Compass, Ultrasonic)
 This code is used to confirm the data from the sensors
 
 ## Motors Code
-This code for testing the code of motors
+This code is for testing the code of the motors
 
-## sensors_readings Code
-This code for testing the incoming data of the sensors IMU, GPS, anc Compass
+## Sensors_readings Code
+This code is for testing the incoming data of the sensors IMU, GPS, and Compass
 
-## ultrasonic Code
-This code for testing the code of ultrasonic sensors
+## Ultrasonic Code
+This code is for testing the code of ultrasonic sensors
 
+## Testing Code
+This code is for testing the code of commands sent from the Raspberry Pi to the Arduino using ROS
