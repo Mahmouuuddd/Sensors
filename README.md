@@ -15,3 +15,6 @@ This code is for testing the code of ultrasonic sensors
 
 ## Testing Code
 This code is for testing the code of commands sent from the Raspberry Pi to the Arduino using ROS
+
+## Libraries
+This file is for libraries that need to be installed in Arduino 
