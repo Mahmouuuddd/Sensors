@@ -17,4 +17,8 @@ This code is for testing the code of ultrasonic sensors
 This code is for testing the code of commands sent from the Raspberry Pi to the Arduino using ROS
 
 ## Libraries
-This file is for libraries that need to be installed in Arduino 
+- Adafruit_HMC5883_Unified
+- Adafruit_Unified_Sensor
+- NewPing
+- TinyGPSPlus
+- ros_lib "but it's too heavy to upload so you need to upload it from Arduino site" 
